@@ -2,6 +2,8 @@ package oop1;
 
 public class MusicPlayerMain2 {
     public static void main(String[] args) {
+        // 절차지향 프로그래밍
+
         MusicPlayerData data = new MusicPlayerData();
 
         // 음악 플레이어 켜기
