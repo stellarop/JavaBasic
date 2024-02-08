@@ -13,6 +13,6 @@ public class ConstructMain1 {
 
         for (MemberConstruct member : members){
             System.out.println("name : " + member.name + " age : " + member.age + " grade : " + member.grade);
-        }
+        } 
     }
 }
